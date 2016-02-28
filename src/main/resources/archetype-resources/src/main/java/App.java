@@ -1,5 +1,4 @@
-package com.towardsmobile;
-
+package ${groupId};
 import static spark.Spark.get;
 import static spark.SparkBase.staticFileLocation;
 
